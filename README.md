@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6a023280-c530-4e41-822b-534d9b95fbbe" />## CineSocio – Console-Based Social & Streaming Platform (C++)
+CineSocio – Console-Based Social & Streaming Platform (C++)
 
 CineSocio is a console-based C++ application that simulates the core backend logic of popular platforms like Instagram, Netflix, and BookMyShow.
 The project focuses on object-oriented design, data handling, and user interaction workflows without using any external frameworks.
